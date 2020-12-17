@@ -3,8 +3,8 @@
 Prodi Sistem Informasi
 
 Proyek UAS Teknik Pemrograman\
-Dosen: Fredian Simanjuntak, S.Kom\
-Proyek Membuat Game: Galaxy War
+Proyek Membuat Game: Galaxy War\
+Dosen: Fredian Simanjuntak, S.Kom.
 
 Kelompok 9:\
 Brenky Jie(2031029)\
